@@ -26,3 +26,32 @@ body {
     margin-left: 100px;
     margin-top: 15px;
   }
+
+  #partsecond {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    line-height: 2;
+    background-color: #eeeeee;
+    
+    
+    
+}
+
+.space {
+    margin-bottom: 20px;
+}
+section {
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#title2 {
+    margin-left: 100px;
+    margin-bottom: 50px;
+    
+}
